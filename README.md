@@ -9,3 +9,6 @@ biblioteca de fotos 3x3
 * HTML
 * Markedown
 * GIT
+
+## Autor 
+Maria Cecilia
